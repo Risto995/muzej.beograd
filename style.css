@@ -1,0 +1,27 @@
+body {
+    line-height: 200px;
+}
+
+.main-page {
+    text-align: center;
+    vertical-align: middle;
+    background-color: #DFCFAF;
+}
+
+.sr-link {
+    font-size: 30px;
+    width: 40%;
+    float: left;
+}
+
+.en-link {
+    font-size: 30px;
+    width: 40%;
+    float: right;
+}
+
+.sr-link a,
+.en-link a {
+    text-decoration: none;
+    font-weight: bold;
+}

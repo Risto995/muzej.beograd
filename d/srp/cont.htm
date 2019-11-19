@@ -1,0 +1,184 @@
+<HTML>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+var topLoc=top.location.href;
+var langBaseURL=topLoc.substring(0,topLoc.length-9);
+var rootBaseURL=topLoc.substring(0,topLoc.length-13);
+var curInd='';
+var curInd2='';
+var curRec=0;
+var curSt=0;
+var curPicSize=0;
+var bslika=0;
+var avi=0;
+var muz=0;
+
+function loadMusic(m) {
+    top.open(langBaseURL+'muz/'+m+'.htm','gl');
+}
+
+function loadAvi(m) {
+   top.open(langBaseURL+'avi.htm','gl');
+}
+
+function restoreAvi(m) {
+    loadRec();
+}
+
+function restoreMusic() {
+    loadRec();
+}
+
+function playRA(raFile){
+    top.open(rootBaseURL+'ra/'+raFile,'ra');
+}
+
+function chRec(recNum,noviBSlika,noviMuz,noviAvi) {
+    if (curRec!=recNum) {
+        curRec=recNum;
+        avi='';
+        muz='';
+        if (noviBSlika>0) bslika=2; else bslika=0;
+        loadRec();
+    } 
+}
+
+function loadRec() {
+    if (bslika==0) top.open(langBaseURL+'opis/opis'+curRec+'.htm','gl');
+    else top.open(rootBaseURL+'gl.htm','gl');
+}
+
+function loadInd(ind) {
+    if (curSt==1) {
+        curSt=0;
+        loadRec();
+    }
+    top.open(langBaseURL+'sad/'+ind+'.htm','ind')
+}
+
+function mslNotify() {
+    top.main.gl.msl.document.open('text/html');
+    top.main.gl.msl.document.writeln('<HTML><BODY BACKGROUND="'+rootBaseURL+'poz.jpg">');
+    top.main.gl.msl.document.writeln('<A HREF="javascript:top.cont.bigPict();">');
+    top.main.gl.msl.document.writeln('<IMG VSPACE=0 BORDER=NO SRC="'+rootBaseURL+'slike/v0/'+curRec+'v0.jpg"></A>');
+    if (muz!='') top.main.gl.msl.document.writeln(
+        " <A HREF=\"JavaScript:top.cont.loadMusic('",muz,"');\">",
+        ' <IMG HSPACE=15 ALIGN=ABSMIDDLE BORDER=NO SRC="'+rootBaseURL+'muz.gif"></A>');
+    if (avi!='') top.main.gl.msl.document.writeln(
+        " <A HREF=\"JavaScript:top.cont.loadAvi('",avi,"');\">",
+        ' <IMG HSPACE=15 ALIGN=ABSMIDDLE BORDER=NO SRC="'+rootBaseURL+'film.gif"></A>');
+    top.main.gl.msl.document.writeln('');
+    top.main.gl.msl.document.writeln('<BODY>');
+    top.main.gl.msl.document.close();
+}
+
+function txtNotify() {
+    top.open(langBaseURL+'opis/opis'+curRec+'.htm','txt');
+}
+
+function picNotify() {
+    top.open(rootBaseURL+'slike/v'+curPicSize+'/'+curRec+'v'+curPicSize+'.jpg',
+             'pic');
+}
+
+function picHNotify() {
+    top.open(rootBaseURL+'slike/v'+curPicSize+'/'+curRec+'v'+curPicSize+'.jpg',
+             'pichuge');
+}
+
+function indBigNotify() {
+    top.open(langBaseURL+'opis/opis'+curRec+'.htm','ind');
+}
+
+function indSmNotify() {
+    top.open(curInd,'ind');
+}
+
+function bigPict() {
+    if (curRec!=22 &&
+        curRec!=107 &&
+        curRec!=94 &&
+        curRec!=148 &&
+        curRec!=142 &&
+        curRec!=144 &&
+        curRec!=108 &&
+        curRec!=141 &&
+        curRec!=130 &&
+        curRec!=151 &&
+        curRec!=187 &&
+        curRec!=89 &&
+        curRec!=1361 &&
+        curRec!=90 &&
+        curRec!=1360 &&
+        curRec!=556 &&
+        curRec!=1356 &&
+        curRec!=1354 &&
+        curRec!=1359) return;
+    curInd=top.main.ind.location.href.toLowerCase();
+    if (curInd.substring(curInd.length-3, curInd.length)=='htm') {
+        curInd2=curInd;
+        curInd=curInd+'#veza'+curRec;
+    } else {
+        curInd=curInd2+'#veza'+curRec;
+    }
+
+    curSt=1;
+    curPicSize=1;
+ 
+    top.open(langBaseURL+'opis/opis'+curRec+'.htm','ind');
+    top.open(rootBaseURL+'glbig.htm','gl');
+}
+
+function hugePict() {
+    top.open(rootBaseURL+'mainhuge.htm','main');
+}
+
+function restoreBigPict() {
+    curSt=0;
+    top.open(curInd,'ind');
+    loadRec();
+}
+
+function restoreH2B() {
+    top.open(rootBaseURL+'mainbig.htm','main');
+}
+
+function restoreH2S() {
+    curSt=0;
+    top.open(rootBaseURL+'main.htm','main');
+}
+
+function zoomIn() {
+    if (curPicSize<bslika) {
+        curPicSize++;
+        picNotify();
+    }
+}
+
+function zoomOut() {
+    if (curPicSize>1) {
+        curPicSize--;
+        picNotify();
+    } else restoreBigPict();
+}
+
+function zoomInHuge() {
+    if (curPicSize<bslika) {
+        curPicSize++;
+        picHNotify();
+    }
+}
+
+function zoomOutHuge() {
+    if (curPicSize>1) {
+        curPicSize--;
+        picHNotify();
+    } else restoreH2S();
+}
+
+</SCRIPT>
+
+<BODY>
+</BODY>
+</HTML>
