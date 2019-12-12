@@ -3,26 +3,26 @@ UPUTSTVO ZA UPOTREBU
 
 * Zahtevi
 
-+ Za kori{}enje ovog kompakt diska potreban je ra~unar sa CD-ROM ure|ajem i
-instaliranim ~ita~em Microsoft Internet Explorer (ver. 3.0 ili vi{a) ili
-Netscape Navigator (ver. 3.0 ili vi{a).
-+ Za reprodukciju zvu~nih zapisa potrebna je zvu~na kartica i dodatak (plugin)
-Real Audio Player (ver 3.0 ili vi{a).
++ Za korišćenje ovog kompakt diska potreban je računar sa CD-ROM uređajem i
+instaliranim čitačem Microsoft Internet Explorer (ver. 3.0 ili viša) ili
+Netscape Navigator (ver. 3.0 ili viša).
++ Za reprodukciju zvučnih zapisa potrebna je zvučna kartica i dodatak (plugin)
+Real Audio Player (ver 3.0 ili viša).
 + Napomena: Ako koristite MS Windows 3.11 potrebno je da instalirate 16-bitne
 verzije ovih programa, a za MS Windows 95 ili MS Windows NT potrebno je da
 instalirate 32-bitne verzije. Ako koristite neki UNIX operativni sistem,
-instalirajte verzije koje odgovaraju Va{em operativnom sistemu (ako postoje).
-+ Preporu~ena rezolucija ekrana je 800x600 sa bar 64K boja.
+instalirajte verzije koje odgovaraju Vašem operativnom sistemu (ako postoje).
++ Preporučena rezolucija ekrana je 800x600 sa bar 64K boja.
 
 * Pokretanje
 
-+ Pokrenite ~ita~ (Internet Explorer ili Netscape Navigator) i u polje Location
++ Pokrenite čitač (Internet Explorer ili Netscape Navigator) i u polje Location
 unesite:
          a) ako koristite neki od MS Windows operativnih sistema, treba uneti
-               file://X|/muzej.htm        gde X odgovara va{em CD-ROM ure|aju
+               file://X|/muzej.htm        gde X odgovara vašem CD-ROM uređaju
             (npr. file://e|/muzej.htm )
          b) ako koristite neki UNIX operativni sistem, treba uneti
-            putanju do datoteke muzej.htm na va{em CD-ROM ure|aju
+            putanju do datoteke muzej.htm na vašem CD-ROM uređaju
             (npr. file://cdrom/muzej.htm )
 
 * INSTALIRANJE REAL AUDIO PLAYER PLUGIN-A
@@ -33,26 +33,26 @@ u ins direktorijumu na kompakt disku i pratite uputstva.
 * FONT
 
 Da bi ste dobili pravi rezultat, potrebno je da instalirate font koji se
-nalazi u ins direktorijumu na kompakt disku, i podesite ~ita~ da koristi
+nalazi u ins direktorijumu na kompakt disku, i podesite čitač da koristi
 taj font.
 
 * KORISNI SAVETI
 
-Podvu~eni tekst predstavlja hiper-tekstualne veze prema drugim stranicama
-u okviru prezentacije. Klikom mi{a prelazite na stranicu na koju takva veza
+Podvučeni tekst predstavlja hiper-tekstualne veze prema drugim stranicama
+u okviru prezentacije. Klikom miša prelazite na stranicu na koju takva veza
 pokazuje. 
 
-Klikom mi{a na ikonu CD-a u desnoj polovini ekrana pokre~ete zvu~ni zapis
-a klikom mi{a na ikonu filmske trake pokre~ete filmski zapis. Prilikom
-pokretanja zvu~nog zapisa pojavljuje se prozor programa Real Audio koji
+Klikom miša na ikonu CD-a u desnoj polovini ekrana pokrečete zvučni zapis
+a klikom miša na ikonu filmske trake pokrečete filmski zapis. Prilikom
+pokretanja zvučnog zapisa pojavljuje se prozor programa Real Audio koji
 treba minimizirati.
 
-Klikom mi{a na umanjenu sliku u gornjoj desnoj polovini ekrana, slika
-se uve~ava i prelazi se u re`im za gledanje uve}ane slike. Klikom mi{a na
-ikone + i - pove~avate odnosno smanjujete sliku, klikom na krajnju levu ikonu
-vra}ate se u normalni re`im a klikom na krajnju desnu ikonu prelazite
-u re`im za gledanje slike preko celog ekrana.
+Klikom miša na umanjenu sliku u gornjoj desnoj polovini ekrana, slika
+se uvečava i prelazi se u režim za gledanje uvećane slike. Klikom miša na
+ikone + i - povečavate odnosno smanjujete sliku, klikom na krajnju levu ikonu
+vraćate se u normalni režim a klikom na krajnju desnu ikonu prelazite
+u režim za gledanje slike preko celog ekrana.
 
-Klikom na vezu 'Va{ komentar' na po~etnom ekranu mo`ete nam poslati
-Va{ komentar, pod uslovom da je u tom trenutku Va{ ra~unar povezan na
-Internet i da ste podesili slanje/primanje po{te u Va{em ~ita~u.
+Klikom na vezu 'Vaš komentar' na početnom ekranu možete nam poslati
+Vaš komentar, pod uslovom da je u tom trenutku Vaš računar povezan na
+Internet i da ste podesili slanje/primanje pošte u Vašem čitaču.
