@@ -2,124 +2,903 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cb10eaa-f5c2-490e-a00d-d8b9de963d27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/d/srp/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/14vek.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/15vek.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/16vek.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/17vek.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/18vek.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/19vek.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/d/srp/sad/hronologija.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d/eng/cont.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/cont.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/muz9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/muz9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/muz/sva_muz.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/muz/sva_muz.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis101.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis101.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis102.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis102.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis103.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis103.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis104.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis104.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis105.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis105.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis106.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis106.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis108.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis108.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis109.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis109.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis110.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis110.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis111.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis111.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis112.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis112.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis113.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis113.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis114.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis114.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis115.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis115.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis116.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis116.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis117.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis117.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis118.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis118.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis119.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis119.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis120.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis120.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis121.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis121.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis122.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis122.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis123.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis123.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis124.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis124.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis125.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis125.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis126.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis126.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis127.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis127.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis128.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis128.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis129.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis129.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis130.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis130.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis131.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis131.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis132.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis132.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis133.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis133.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis134.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis134.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1349.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1349.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis135.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis135.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1350.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1350.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1351.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1351.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1352.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1352.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1353.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1353.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1355.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1355.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1356.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1356.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1357.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1357.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1358.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1358.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1359.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1359.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis136.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis136.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1360.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1360.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1361.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1361.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1363.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1363.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1364.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1364.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1365.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1365.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1366.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1366.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1367.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1367.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1368.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1368.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1369.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1369.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis137.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis137.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1370.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1370.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1371.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1371.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1372.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1372.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1375.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1375.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1376.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1376.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1377.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1377.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1378.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1378.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1379.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1379.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis138.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis138.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1380.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1380.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1381.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1381.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1382.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1382.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1383.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1383.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1384.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1384.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1385.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1385.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1386.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1386.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1388.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1388.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1389.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1389.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis139.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis139.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1390.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1390.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1391.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1391.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1392.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1392.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1394.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1394.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1395.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1395.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1397.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1397.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1399.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1399.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1400.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1400.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1402.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1402.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1403.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1403.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1404.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1404.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1405.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1405.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1406.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1406.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis141.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis141.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1410.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1410.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1411.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1411.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1414.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1414.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1416.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1416.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis142.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis142.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1421.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1421.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1424.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1424.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1426.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1426.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis143.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis143.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1431.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1431.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis1432.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis1432.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis144.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis144.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis145.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis145.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis146.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis146.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis148.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis148.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis150.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis150.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis151.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis151.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis152.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis152.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis153.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis153.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis155.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis155.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis157.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis157.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis158.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis158.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis160.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis160.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis161.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis161.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis162.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis162.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis163.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis163.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis164.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis164.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis165.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis165.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis166.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis166.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis167.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis167.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis168.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis168.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis169.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis169.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis170.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis170.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis171.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis171.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis176.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis176.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis177.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis177.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis178.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis178.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis180.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis180.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis181.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis181.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis183.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis183.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis184.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis184.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis185.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis185.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis186.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis186.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis187.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis187.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis188.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis188.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis189.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis189.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis190.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis190.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis191.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis191.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis192.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis192.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis193.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis193.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis194.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis194.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis195.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis195.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis196.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis196.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis197.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis197.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis198.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis198.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis199.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis199.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis200.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis200.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis201.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis201.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis202.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis202.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis203.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis203.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis204.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis204.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis205.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis205.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis206.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis206.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis207.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis207.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis208.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis208.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis209.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis209.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis27.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis27.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis28.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis28.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis29.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis30.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis32.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis32.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis33.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis33.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis34.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis35.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis35.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis36.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis36.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis37.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis37.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis38.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis38.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis39.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis39.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis40.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis40.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis41.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis41.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis42.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis42.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis43.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis43.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis44.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis44.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis45.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis45.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis46.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis46.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis47.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis47.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis48.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis48.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis49.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis49.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis556.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis556.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis565.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis565.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis85.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis85.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis86.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis86.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis87.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis87.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis88.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis88.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis89.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis89.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis90.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis90.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis91.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis91.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis92.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis92.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis93.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis93.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis94.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis94.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis95.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis95.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis96.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis96.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis97.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis97.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/opis/opis98.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/opis/opis98.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/18vek.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/18vek.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/19vek.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/19vek.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/alb.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/alb.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_32.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_32.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/autor_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/autor_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/bak.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/bak.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/crtac_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/crtac_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo29.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo30.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo33.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo33.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo34.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/geo9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/geo9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/grom.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/grom.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/hron_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/hron_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/ist.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/ist.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/izdav.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/izdav.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/izdav_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/izdav_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/izdav_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/izdav_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/izdav_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/izdav_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/izdav_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/izdav_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/izdav_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/izdav_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/kart.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/kart.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/lit.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/lit.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/o_proj.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/o_proj.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/pang.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/pang.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/pds.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/pds.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/pgob.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/pgob.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/plan.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/plan.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/port.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/port.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/prom.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/prom.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/rezac.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/rezac.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/rezac_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/rezac_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/rezac_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/rezac_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/rezac_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/rezac_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/rkar.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/rkar.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/rsc.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/rsc.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/sf.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/sf.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/sg.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/sg.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_27.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_27.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_28.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_28.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_29.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_34.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_35.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_35.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_36.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_36.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_38.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_38.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_39.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_39.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_40.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_40.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_41.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_41.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_45.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_45.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_46.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_46.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_47.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_47.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_48.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_48.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_49.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_49.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_50.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_50.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_51.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_51.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_52.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_52.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/term_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/term_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/uvod.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/uvod.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vlad_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vlad_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vojl_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vojl_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/vojl_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/vojl_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/eng/sad/znaml_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/eng/sad/znaml_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/muzej1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/muzej1.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d/srp/cont.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/cont.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/muz9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/muz9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/muz/sva_muz.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/muz/sva_muz.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis101.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis101.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis102.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis102.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis103.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis103.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis104.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis104.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis105.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis105.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis106.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis106.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis107.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis107.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis108.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis108.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis109.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis109.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis110.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis110.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis111.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis111.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis112.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis112.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis113.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis113.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis114.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis114.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis115.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis115.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis116.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis116.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis117.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis117.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis118.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis118.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis119.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis119.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis120.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis120.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis121.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis121.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis122.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis122.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis123.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis123.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis124.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis124.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis125.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis125.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis126.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis126.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis127.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis127.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis128.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis128.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis129.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis129.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis130.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis130.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis131.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis131.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis132.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis132.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis133.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis133.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis134.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis134.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1349.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1349.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis135.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis135.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1350.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1350.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1351.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1351.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1352.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1352.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1353.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1353.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1354.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1354.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1355.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1355.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1356.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1356.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1357.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1357.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1358.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1358.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1359.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1359.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis136.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis136.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1360.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1360.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1361.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1361.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1362.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1362.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1363.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1363.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1364.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1364.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1365.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1365.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1366.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1366.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1367.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1367.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1368.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1368.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1369.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1369.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis137.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis137.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1370.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1370.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1371.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1371.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1372.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1372.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1373.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1373.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1374.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1374.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1375.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1375.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1376.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1376.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1377.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1377.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1378.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1378.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1379.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1379.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis138.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis138.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1380.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1380.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1381.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1381.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1382.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1382.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1383.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1383.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1384.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1384.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1385.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1385.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1386.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1386.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1387.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1387.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1388.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1388.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1389.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1389.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis139.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis139.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1390.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1390.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1391.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1391.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1392.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1392.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1393.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1393.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1394.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1394.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1395.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1395.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1396.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1396.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1397.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1397.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1398.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1398.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1399.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1399.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis140.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis140.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1400.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1400.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1401.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1401.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1402.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1402.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1403.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1403.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1404.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1404.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1405.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1405.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1406.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1406.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1407.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1407.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1408.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1408.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1409.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1409.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis141.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis141.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1410.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1410.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1411.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1411.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1412.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1412.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1413.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1413.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1414.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1414.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1415.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1415.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1416.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1416.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1417.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1417.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1418.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1418.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1419.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1419.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis142.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis142.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1420.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1420.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1421.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1421.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1422.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1422.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1423.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1423.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1424.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1424.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1425.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1425.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1426.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1426.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1427.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1427.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1428.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1428.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1429.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1429.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis143.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis143.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1430.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1430.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1431.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1431.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis1432.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis1432.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis144.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis144.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis145.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis145.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis146.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis146.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis147.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis147.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis148.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis148.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis149.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis149.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis150.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis150.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis151.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis151.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis152.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis152.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis153.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis153.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis154.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis154.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis155.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis155.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis157.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis157.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis158.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis158.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis159.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis159.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis160.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis160.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis161.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis161.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis162.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis162.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis163.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis163.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis164.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis164.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis165.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis165.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis166.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis166.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis167.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis167.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis168.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis168.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis169.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis169.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis170.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis170.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis171.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis171.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis172.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis172.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis173.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis173.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis174.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis174.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis175.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis175.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis176.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis176.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis177.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis177.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis178.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis178.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis179.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis179.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis180.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis180.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis181.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis181.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis182.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis182.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis183.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis183.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis184.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis184.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis185.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis185.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis186.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis186.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis187.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis187.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis188.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis188.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis189.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis189.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis190.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis190.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis191.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis191.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis192.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis192.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis193.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis193.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis194.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis194.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis195.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis195.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis196.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis196.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis197.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis197.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis198.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis198.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis199.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis199.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis200.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis200.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis201.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis201.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis202.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis202.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis203.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis203.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis204.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis204.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis205.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis205.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis206.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis206.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis207.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis207.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis208.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis208.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis209.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis209.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis27.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis27.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis28.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis28.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis29.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis30.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis32.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis32.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis33.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis33.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis34.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis35.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis35.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis36.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis36.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis37.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis37.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis38.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis38.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis39.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis39.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis40.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis40.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis41.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis41.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis42.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis42.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis43.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis43.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis44.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis44.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis45.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis45.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis46.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis46.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis47.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis47.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis48.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis48.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis49.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis49.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis556.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis556.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis565.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis565.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis85.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis85.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis86.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis86.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis87.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis87.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis88.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis88.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis89.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis89.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis90.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis90.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis91.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis91.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis92.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis92.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis93.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis93.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis94.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis94.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis95.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis95.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis96.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis96.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis97.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis97.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/opis/opis98.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/opis/opis98.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/16vek.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/16vek.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/17vek.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/17vek.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/18vek.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/18vek.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/19vek.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/19vek.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d/srp/sad/alb.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/alb.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d/srp/sad/sad.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/sad.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/aut.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/aut.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_27.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_27.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_30.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_32.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_32.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/autor_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/autor_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/bak.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/bak.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/crtac.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/crtac.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/crtac_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/crtac_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/crtac_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/crtac_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/crtac_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/crtac_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/crtac_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/crtac_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/crtac_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/crtac_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/drv.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/drv.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo29.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo30.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo33.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo33.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo34.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo35.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo35.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/geo9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/geo9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/grom.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/grom.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/hron_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/hron_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/ist.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/ist.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/izdav_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/izdav_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/kart.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/kart.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/lit.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/lit.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/o_proj.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/o_proj.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/odr.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/odr.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/pang.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/pang.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/pbgd.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/pbgd.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/pds.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/pds.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/pgob.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/pgob.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/plan.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/plan.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/port.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/port.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/prom.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/prom.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/reg.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/reg.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rezac_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rezac_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rkar.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rkar.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/rsc.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/rsc.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/sad_rez.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/sad_rez.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/sf.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/sf.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/sg.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/sg.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/tehn.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/tehn.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_27.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_27.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_28.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_28.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_29.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_29.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_30.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_31.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_31.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_32.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_32.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_33.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_33.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_34.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_34.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_35.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_35.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_36.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_36.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_37.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_37.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_38.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_38.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_39.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_39.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_40.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_40.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_41.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_41.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_42.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_42.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_43.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_43.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_44.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_44.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_45.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_45.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_46.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_46.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_47.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_47.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_48.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_48.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_49.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_49.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_50.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_50.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_51.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_51.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_52.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_52.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/term_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/term_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/uvod.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/uvod.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vlad_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vlad_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vojl.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vojl.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vojl_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vojl_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/vojl_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/vojl_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_10.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_10.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_11.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_11.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_12.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_12.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_13.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_13.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_14.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_14.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_15.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_15.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_16.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_16.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_17.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_17.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_18.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_18.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_19.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_19.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_20.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_20.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_21.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_21.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_22.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_22.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_23.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_24.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_24.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_25.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_25.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_26.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_26.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_8.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_8.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/znaml_9.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/znaml_9.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d/srp/sad/zsc.htm" beforeDir="false" afterPath="$PROJECT_DIR$/d/srp/sad/zsc.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procitaj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/procitaj.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/18vek.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="582" column="36" selection-start-line="582" selection-start-column="8" selection-end-line="582" selection-end-column="36" />
-              <folding>
-                <element signature="e#10658#10664#0" expanded="true" />
-                <element signature="e#10668#10674#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/rpl.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/rkar.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/port.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="73" column="34" lean-forward="true" selection-start-line="6" selection-end-line="73" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/17vek.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/16vek.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/15vek.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/plan.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="118" selection-start-line="118" selection-end-line="121" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/19vek.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="723" column="42" selection-end-line="725" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d/srp/sad/14vek.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,190 +908,20 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Paž</find>
-      <find>najveći je turski vladar</find>
-      <find>./</find>
-      <find>JavaScript:top.cont.loadInd('</find>
-      <find>');</find>
-      <find>Military plans</find>
-      <find>Battle sc</find>
-      <find>Photographs of</find>
-      <find>Historic sce</find>
-      <find>Maps</find>
-      <find>Panoramas -</find>
-      <find>Plans</find>
-      <find>Portraits</find>
-      <find>War maps</find>
-      <find>War scene</find>
-      <find>slike/v0</find>
-      <find>v0.j</find>
-      <find>margin: 0</find>
-      <find>komentar</find>
-      <find>Fotogra</find>
-      <find>fotografije Beo</find>
-      <find>Panorame - gra</find>
-      <find>RATNA SCE</find>
-      <find>FONT</find>
-      <find>161</find>
-      <find>PLAN BEOGRADSKE</find>
-      <find>RATNA KARTA ČARK</find>
-      <find>RA</find>
-      <find>RATNI PLAN CARSKE AUSTRIJSKE VOJSKE</find>
-      <find>SKICA CARSKOG LOGORA</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>&lt;html&gt;</replace>
-      <replace>&lt;html</replace>
-      <replace>&lt;head&gt;</replace>
-      <replace>&lt;/head&gt;</replace>
-      <replace>&lt;title&gt;</replace>
-      <replace>&lt;/title&gt;</replace>
-      <replace>script</replace>
-      <replace>body</replace>
-      <replace>target</replace>
-      <replace>href</replace>
-      <replace>gl</replace>
-      <replace>Š“</replace>
-      <replace>č</replace>
-      <replace />
-      <replace>\</replace>
-      <replace>ALBUM POŽAREVAČKOG MIRA</replace>
-      <replace>ž</replace>
-      <replace>Ć</replace>
-      <replace>Š</replace>
-      <replace>Đ</replace>
-      <replace>đ</replace>
-      <replace>Č</replace>
-      <replace>Ž</replace>
-      <replace>š</replace>
-      <replace>ć</replace>
-      <replace>'</replace>
-      <replace>ü</replace>
-      <replace>../sad/</replace>
-      <replace>.htm&quot; target=&quot;gl&quot;</replace>
-      <replace>./</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/d/srp/opis</dir>
-      <dir>$PROJECT_DIR$</dir>
-      <dir>$PROJECT_DIR$/d/eng/opis</dir>
-      <dir>$PROJECT_DIR$/</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_14.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_15.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_16.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_17.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_18.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_19.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_20.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_21.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_22.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_23.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_24.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_25.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/znaml_26.htm" />
-        <option value="$PROJECT_DIR$/d/eng/opis/opis1.htm" />
-        <option value="$PROJECT_DIR$/d/eng/muz/muz6.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/geo29.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/vlad_7.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/vlad_6.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/pgob.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/alb.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/rpl.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/zsc.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/pgob.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/ist.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/kart.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/pds.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/pbgd.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/pang.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/plan.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/port.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/rkar.htm" />
-        <option value="$PROJECT_DIR$/d/eng/sad/rsc.htm" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/d/srp/main.js" />
-        <option value="$PROJECT_DIR$/d/srp/index.htm" />
-        <option value="$PROJECT_DIR$/d/msl.htm" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/d/srp/style.css" />
-        <option value="$PROJECT_DIR$/d/eng/style.css" />
-        <option value="$PROJECT_DIR$/d/srp/sad/uvod.htm" />
-        <option value="$PROJECT_DIR$/d/srp/cont.htm" />
-        <option value="$PROJECT_DIR$/d/eng/cont.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/sad.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/alb.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/hronologija.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/16vek.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/14vek.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/15vek.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/17vek.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/19vek.htm" />
-        <option value="$PROJECT_DIR$/d/srp/sad/18vek.htm" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1YoKqTEebUPgudDQfRrwpW4jFJm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="muzej.beograd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muzej.beograd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="muzej.beograd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muzej.beograd" type="462c0819:PsiDirectoryNode" />
-              <item name="d" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="muzej.beograd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muzej.beograd" type="462c0819:PsiDirectoryNode" />
-              <item name="d" type="462c0819:PsiDirectoryNode" />
-              <item name="eng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="muzej.beograd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muzej.beograd" type="462c0819:PsiDirectoryNode" />
-              <item name="d" type="462c0819:PsiDirectoryNode" />
-              <item name="srp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="muzej.beograd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="muzej.beograd" type="462c0819:PsiDirectoryNode" />
-              <item name="d" type="462c0819:PsiDirectoryNode" />
-              <item name="srp" type="462c0819:PsiDirectoryNode" />
-              <item name="sad" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/d/eng" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -325,18 +934,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/d/srp" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.term_7.htm">
     <configuration name="reg.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/muzej.beograd/d/srp/sad/reg.htm" useBuiltInWebServerPort="true">
@@ -351,6 +948,18 @@
         <item itemvalue="JavaScript Debug.reg.htm" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -367,6 +976,7 @@
       <workItem from="1575222374584" duration="6379000" />
       <workItem from="1575998779217" duration="22082000" />
       <workItem from="1578302585760" duration="4314000" />
+      <workItem from="1583603699327" duration="3756000" />
     </task>
     <task id="LOCAL-00001" summary="Convert YUSCII to UNICODE, remove some unimportant links">
       <created>1576176733910</created>
@@ -399,35 +1009,6 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49060000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.33373493" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32931727" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -437,20 +1018,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -478,352 +1046,18 @@
     <MESSAGE value="Remove unnecessary links in english version of the site" />
     <option name="LAST_COMMIT_MESSAGE" value="Remove unnecessary links in english version of the site" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/vlad_7.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/autor_12.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/alb.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/aut.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/rpl.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/zsc.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/pgob.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/ist.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/kart.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/pds.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/pbgd.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/pang.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/plan.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/port.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/rkar.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/sad/rsc.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/main.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/msl.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/poc.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/uvod.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/cont.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/sad.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/hron.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/cont.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="52" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/eng/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/reg.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/alb.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="360" column="34" lean-forward="true" selection-start-line="263" selection-end-line="360" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/pgob.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="161" column="38" lean-forward="true" selection-start-line="6" selection-end-line="161" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/ist.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/kart.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="82" selection-start-line="82" selection-end-line="85" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/pbgd.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="6" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/pds.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="157" column="18" lean-forward="true" selection-start-line="6" selection-end-line="157" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/hronologija.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/pang.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="258" selection-start-line="258" selection-end-line="261" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/14vek.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/16vek.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/15vek.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/17vek.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="66" column="25" lean-forward="true" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/plan.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="118" selection-start-line="118" selection-end-line="121" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/port.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="73" column="34" lean-forward="true" selection-start-line="6" selection-end-line="73" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/19vek.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="723" column="42" selection-end-line="725" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/rkar.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/rpl.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d/srp/sad/18vek.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="582" column="36" selection-start-line="582" selection-start-column="8" selection-end-line="582" selection-end-column="36" />
-          <folding>
-            <element signature="e#10658#10664#0" expanded="true" />
-            <element signature="e#10668#10674#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="796" y="265" width="385" height="574" key="RollbackChangesDialog" timestamp="1583607490379">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="796" y="265" width="385" height="574" key="RollbackChangesDialog/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1583607490379" />
+    <state x="637" y="283" width="869" height="606" key="find.popup" timestamp="1583607473440">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="637" y="283" width="869" height="606" key="find.popup/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1583607473440" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583603833854">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1583603833854" />
   </component>
 </project>
